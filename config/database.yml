@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: observer_pattern
+  pool: 100
+  username: sovanlandypheng
+  password:
